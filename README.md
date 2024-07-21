@@ -39,6 +39,6 @@ I'm always excited to collaborate on interesting projects, share knowledge, and 
 - LinkedIn: [https://linkedin.com/in/4rju9]
 - Twitter: [https://twitter.com/x4rju9]
 
-You can find more details about my experience, projects, and achievements in my [resume](https://drive.google.com/file/d/1HYnMVbjlxf5LijQHqqFVfQIIqoloZ2fd/view).
+You can find more details about my experience, projects, and achievements in my [resume]([https://drive.google.com/file/d/1HYnMVbjlxf5LijQHqqFVfQIIqoloZ2fd/view](https://drive.google.com/file/d/1l85gGPNxag4qOfDr2cNefZQBr8B9Trgs/view).
 
 Thank you for visiting my GitHub profile!
