@@ -8,7 +8,7 @@ I'm Arjun Gangwar, a dedicated Computer Science undergraduate with a passion for
 
 **Languages:** Java, Kotlin, C/C++, XML, Python, SQL
 
-**Frameworks and Libraries:** Volley Library, Room Database, One Signal SDK
+**Frameworks and Libraries:** Jetpack Compose, Compose Navigation, Retrofit & Volley Library, Room Database, One Signal SDK, Android SDK
 
 **DevOps and API Tools:** Git, GitHub, Firebase
 
